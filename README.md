@@ -17,7 +17,12 @@ Here are some ideas to get you started:
 
 I am Saasha, a Computer Science Engineer and a Quantum Computing Researcher from India. 
 
-I am pursuing a Master's degree in Quantum Computing from the University of Victoria in British Columbia, Canada. I am also an NSERC CREATE Quantum BC Scholar. My current focus is on exploring image processing with quantum machine learning and neural network algorithms and understanding the best quantum software development practices. 
+I am pursuing a Master's degree in Computer Science from the University of Victoria in British Columbia, Canada. I am also an NSERC CREATE Quantum BC Scholar. My current focus is on exploring image processing with quantum machine learning and neural network algorithms and understanding the best quantum software development practices. 
+
+I am currently writing my thesis on the topic _Quantum Machine Learning for Image Processing_. You can find the corresponding GitHub repository for more details [here](https://github.com/SaashaJoshi/quantum-image-processing).
+
+### Skills
+
 
 ### More about Me
 
