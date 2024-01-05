@@ -21,9 +21,6 @@ I am pursuing a Master's degree in Computer Science from the University of Victo
 
 I am currently writing my thesis on the topic _Quantum Machine Learning for Image Processing_. You can find the corresponding GitHub repository for more details [here](https://github.com/SaashaJoshi/quantum-image-processing).
 
-### Skills
-
-
 ### More about Me
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saashajoshi/)
