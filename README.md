@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Saasha, a Computer Science Engineer and a Quantum Computing Researcher from India. 
+I am Saasha, a Quantum Computing researcher and Computer Science engineer currently pursuing my Master's in Quantum Computing at the University of Victoria, BC Canada. My focus centers on exploring quantum machine learning algorithms for image processing.
 
-I am pursuing a Master's in Computer Science from the University of Victoria in British Columbia, Canada. I am also an NSERC CREATE Quantum BC Scholar. My current focus is on exploring image processing applications with quantum machine learning algorithms and understanding the best quantum software development practices. 
+I am actively engaged in open-source development, education, and outreach. I believe in contributing meaningfully to the quantum community as a Qiskit Advocate. I am also an ex-IBM Quantum intern and an NSERC CREATE Quantum BC Scholar.
 
-I am, currently, writing my thesis on _Quantum Machine Learning for Image Processing_. Here is the corresponding GitHub repository for more details: _[piQture](https://github.com/SaashaJoshi/quantum-image-processing)_.
+I am writing my thesis on _Quantum Machine Learning_ and _Image Processing_. Here is the corresponding GitHub repository for more details: _[piQture](https://github.com/SaashaJoshi/quantum-image-processing)_.
 
 ### More About Me
 
