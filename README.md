@@ -27,7 +27,7 @@ Formerly an IBM Quantum intern and an NSERC CREATE Quantum BC Scholar, I am now 
 &nbsp;
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaashaJoshi)
 &nbsp;
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)]([https://gitlab.com/saashajoshy](https://www.youtube.com/@saashajoshi))
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@saashajoshi))
 &nbsp;
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/saashajoshy)
 &nbsp;
