@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m Saasha, a Quantum Computing researcher and Computer Science engineer focusing on quantum machine learning and optimization algorithms. I am actively involved in open-source development and love educating through youth workshops.
+I am Saasha, a Quantum Computing researcher and Computer Science engineer with a focus on quantum machine learning, optimization, and software development. I am actively engaged in education and outreach activities.
 
-Formerly an IBM Quantum intern and an NSERC CREATE Quantum BC Scholar, I am now applying my expertise in the QC industry. 
+I believe in contributing meaningfully to the quantum community as an open-source developer and a Qiskit Advocate. I am currently applying my expertise in the QC industry.
 
 ### More About Me
 
